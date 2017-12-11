@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">appFromKorovin</string>
+    <string name="btnDownload">Download</string>
+    <string name="btnLook">Products</string>
+    <string name="dialogChangePrice">Изменить цену?</string>
+    <string name="cancel">Отменить</string>
+    <string name="update">Изменить</string>
+</resources>
